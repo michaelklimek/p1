@@ -45,7 +45,7 @@
 		</div>
 		<div>
 			<h3>What is my operation platform?</h3>
-			<p>My current operating platform is Windows based.</p>
+			<p>I operate on the Windows 8 platform.</p>
 		</div>
 		<div>
 			<h3>Additional Information</h3>
