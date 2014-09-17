@@ -14,18 +14,18 @@
 	<div class="project">
 		<div id="p2">
 			<h3>Project 2</h3>
-			<a href="#">URL</a>
-			<a href="#">GitHub</a>
+			<a href="www.p2.michaelklimek.com">LINK</a>
+			<a href="https://github.com/michaelklimek/p2">GitHub</a>
 		</div>
 		<div id="p3">
 			<h3>Project 3</h3>
-			<a href="#">URL</a>
-			<a href="#">GitHub</a>
+			<a href="www.p3.michaelklimek.com">LINK</a>
+			<a href="https://github.com/michaelklimek/p3">GitHub</a>
 		</div>
 		<div id="p4">
 			<h3>Project 4</h3>
-			<a href="#">URL</a>
-			<a href="#">GitHub</a>
+			<a href="www.p4.michaelklimek.com">LINK</a>
+			<a href="https://github.com/michaelklimek/p4">GitHub</a>
 		</div>
 	</div>
 	<div class="about">
@@ -33,7 +33,7 @@
 		<div>
 			<h3>Who I am and What I do</h3>
 			<?php // 2+ sentences ?>
-			<p>President and co-founder of the Pillar Corporation, an independent insurance brokerage based out of Illinois. I am licensed in Property, Casualty, Life and Health Insurance in 12 different states. My primary focus is on commercial insurance for businesses in certain niche industries.</p>
+			<p>President and co-founder of the Pillar Corporation, an independent insurance brokerage based out of Illinois. I am licensed in Property, Casualty, Life and Health Insurance in twelve states. My primary focus is on commercial insurance for businesses in certain niche industries.</p>
 		</div>
 		<div>
 			<h3>Why I am taking CSCI E-15</h3>
