@@ -7,8 +7,9 @@
 <body>
 	<div class="general">
 		<div class="name">
-			<h1>Michael Klimek</h1>
+			<h1 id="ctitle">Dynamic Web Apps</h1>
 			<img src="mike.jpg" width="200" length="200" id="photo">
+			<h1>Michael Klimek</h1>
 		</div>
 	</div>
 	<div class="project">
