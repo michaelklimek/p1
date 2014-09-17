@@ -14,17 +14,17 @@
 	<div class="project">
 		<div id="p2">
 			<h3>Project 2</h3>
-			<a href="www.p2.michaelklimek.com">LINK</a>
+			<a href="http://p2.michaelklimek.com">LINK</a>
 			<a href="https://github.com/michaelklimek/p2">GitHub</a>
 		</div>
 		<div id="p3">
 			<h3>Project 3</h3>
-			<a href="www.p3.michaelklimek.com">LINK</a>
+			<a href="http://p3.michaelklimek.com">LINK</a>
 			<a href="https://github.com/michaelklimek/p3">GitHub</a>
 		</div>
 		<div id="p4">
 			<h3>Project 4</h3>
-			<a href="www.p4.michaelklimek.com">LINK</a>
+			<a href="http://p4.michaelklimek.com">LINK</a>
 			<a href="https://github.com/michaelklimek/p4">GitHub</a>
 		</div>
 	</div>
