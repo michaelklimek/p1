@@ -1,0 +1,39 @@
+.general {
+	background-color: crimson;
+}
+
+.name {
+	margin-left: 40%;
+	color: white;
+}
+
+#photo {
+	margin-left: 1%;
+}
+
+#p2 {
+	float: left;
+	margin-left: 20%;
+}
+
+#p3 {
+	float: left;
+	margin-left: 20%;
+}
+
+#p4 {
+	float: left;
+	margin-left: 20%;
+}
+
+.about {
+	margin-top: 6%;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: #F7F705;
+}
+
+footer {
+	margin-left: 20%;
+	margin-top: 3%;
+}
